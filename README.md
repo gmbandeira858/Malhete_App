@@ -94,23 +94,23 @@ Os dados de cada tenant são utilizados para geração de relatórios e dashboar
 
 ### 🔐 Tela de Login
 Acesso seguro com autenticação vinculada à loja.
-![Tela de Login](Tela_login.png)
+![Tela de Login](Tela_login.jpeg)
 
 ### 🏠 Tela Inicial
 Visão geral com acesso rápido às funcionalidades.
-![Tela Inicial](Home.png)
+![Tela Inicial](Home.jpeg)
 
 ### 💰 Gestão de Mensalidades
 Controle de pagamentos com acompanhamento financeiro (restrito ao tesoureiro).
-![Mensalidade](Mensalidade.png)
+![Mensalidade](Mensalidade.jpeg)
 
 ### 🏛️ Peças de Arquitetura
 Organização e registro de trabalhos apresentados.
-![Peças de Arquitetura](Pecas_Arquitetura.png)
+![Peças de Arquitetura](Pecas_Arquitetura.jpeg)
 
 ### 📊 Registro Financeiro
 Controle detalhado de receitas e despesas.
-![Relatório financeiro](Registro_financeiro.png)
+![Relatório financeiro](Registro_financeiro.jpeg)
 
 ---
 
